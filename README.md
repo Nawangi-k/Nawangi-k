@@ -1,14 +1,14 @@
 <div align="center">
 
-# ⚡👑 N A W A N G I 👑⚡
+# ⚡ N A W A N G I ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+Digital+Space;🎓+ICT+Student;💻+Future+Software+Engineer;🚀+Future+Tech+Founder;👑+Future+CEO+%26+Business+Leader;⚡+Code.+Create.+Innovate.;📈+Building+Skills+Today+For+Tomorrow;🌍+Building+Technology+That+Matters;💡+Turning+Ideas+Into+Reality;🔥+Dream+Big.+Build+Bigger.;🚀+From+Student+To+Founder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Digital+Space;ICT+Student;Future+Software+Engineer;Future+Tech+Founder;Learning+%7C+Building+%7C+Growing;Building+the+Future+With+Code;Code.+Create.+Innovate.;Dream+Big.+Build+Bigger.;Learning.+Creating.+Leading.;Turning+Ideas+Into+Reality" />
 
 <img src="https://komarev.com/ghpvc/?username=Nawangi-K&label=VISITORS&color=00ff41&style=for-the-badge" />
 
 </div>
 
----
+
 
 ```text
 ╔══════════════════════════════════════════════╗
